@@ -1,0 +1,2 @@
+recursive-include easy_custom_titlebar/assets *.png
+recursive-include easy_custom_titlebar/assets *.ico 
